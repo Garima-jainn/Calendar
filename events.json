@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-05-27",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Project Review",
+    "date": "2025-05-27",
+    "time": "11:00",
+    "duration": "30m"
+  },
+  {
+    "title": "Doctor Appointment 🤒",
+    "date": "2025-06-04",
+    "time": "14:00",
+    "duration": "1h"
+  },
+  {
+    "title": "My Birthday 🥳",
+    "date": "2025-05-30",
+    "time": "00:00",
+    "duration": "All Day"
+  }
+
+]
